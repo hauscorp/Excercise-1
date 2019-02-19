@@ -1,0 +1,18 @@
+.kanan1 {
+    margin-left: 100px;
+}
+.kiri1{
+    margin-right: 100px;
+}
+.img-profil {
+    width: 200px;
+    height: 200px;
+    background-size: 100%;
+    margin-top: 10%;
+}
+.nama h1{
+    font-size: 75px
+}
+.ttl {
+    font-size: 28px;
+}
